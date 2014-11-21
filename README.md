@@ -4,5 +4,5 @@ Having some trouble with data structures for the alien group, and the collision 
 
 ## Controls For the Prototype ##
 
-A and D - Move left and right respectively
-J - Fire bullets
+- A and D - Move left and right respectively
+- J - Fire bullets
